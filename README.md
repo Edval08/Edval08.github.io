@@ -1,5 +1,5 @@
 # Indice de practicas de bootstrap
-<a href="">Practica # 1 bootstrap grids</a>
+<a href="">Practica # 1 bootstrap grids</a><hr></hr>
 <a href="">Practica # 2 bootstrap tablas</a>
 <a href="">Practica # 3 bootstrap tablas</a>
 <a href="">Practica # 4 bootstrap</a>
